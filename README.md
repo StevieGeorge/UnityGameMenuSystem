@@ -3,7 +3,7 @@ A scene-free menu system for presenting, saving, loading, and changing settings 
 
 
 #Introduction:
- "Begin with a finish product". It is very easy to start making a game, but even easier to never finish it. However even just a program that opens, says "Thanks for playing!" and closes can be considered a complete game, so this menu system is made to establish this baseline.
+ "Always have a complete product". It is easier to start a project than to finish it. However even just a program that opens, says "Thanks for playing!" and closes can be considered a complete game, so this menu system is made to establish this baseline.
 
 
 #Features:
