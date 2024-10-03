@@ -36,9 +36,9 @@ The system was designed to be used in the following way (but does not impose it)
 ------
 #Installation:
 - Import the .unitypackage into your project. (Note: If you changed the default Canvas settings, you will need to change them again after the import).
-- Alternatively, copy the contents of the "Assets" folder to the Unity project "Assets" folder. Attach all the scripts from _SCRIPTS/_MGR_SCRIPTS to a single GameObject in your scene, and link them together. 
+- Alternatively, attach all the scripts from _SCRIPTS/_MGR_SCRIPTS to a single GameObject in your scene, and link them together. 
   - Create a Main menu canvas object, attach the GameControlMenu script, and link the script to a Quit button on the menu.
-  - Create a Main menu canvas object, attach the ConfirmationScreen script, and set its event to quitApplication.
+  - Create a "Thanks for Playing" canvas object, attach the ConfirmationScreen script, and set its event to quitApplication.
   - Optionally add additional buttons and menus to fill in the other fields in the UIManager as desired.
 
 
