@@ -1,5 +1,5 @@
 # UnityGameMenuSystem
-A scene-free menu system for presenting, saving, loading, and changing settings for a game in Unity engine, with the ultimate goal of becoming game- and engine-independent. Currently an exercise in UX, orchestration, and code readability.
+A scene-free menu system for presenting, saving, loading, and changing settings for a game in Unity engine, with the ultimate goal of becoming game- and engine-independent. Currently an exercise in UX, software architecture, and code readability.
 
 -----
 #Introduction
